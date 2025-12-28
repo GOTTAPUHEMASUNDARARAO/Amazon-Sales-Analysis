@@ -10,8 +10,6 @@ Rows: ~89,000
 
 Columns: 7–20
 
-
-
 KPIs:
 
 YTD Sales
