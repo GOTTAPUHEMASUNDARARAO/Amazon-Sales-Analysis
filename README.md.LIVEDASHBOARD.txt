@@ -8,7 +8,8 @@ This Amazon Sales Analysis dashboard presents key insights into YTD and QTD sale
 
 ## 🚀 Live Dashboard
 You can interact with the live report here: 
-👉**(https://app.powerbi.com/view?r=eyJrIjoiNTZjOThhZjctMmNkMy00YjliLTgzN2MtZTljOWIwNGY3YzRhIiwidCI6IjFjZGYzNGYzLTA4ZjktNDNlYi05ZDRmLTJiYTRhMWQyMGE2ZiJ9&pageName=518c269362d8f53e1303)**
+👉**(https://app.powerbi.com/groups/me/reports/b52d34c5-8d77-4200-afb1-5100eae26bb4/518c269362d8f53e1303?experience=power-bi)**
 
 ---
+
 
